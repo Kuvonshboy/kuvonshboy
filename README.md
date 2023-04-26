@@ -1,2 +1,5 @@
-### Salom Mening ismim Quvonchbek <img src="https://media.giphy.com/media/hvRJCFzcasrR4ia7z/giphy.gif" width"100px" >
+### Hi, I'm Kuvonchbek Bozorboyev😎
+
+Toshkend Davlat Texnika Universiteti 2-kurs talabasi <br>
+Web dasturlash Frontend ReacJS(Standard)N9 guruh o'quvchisi
 
